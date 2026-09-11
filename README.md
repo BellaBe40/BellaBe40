@@ -3,6 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I studied for 3 years but got nothing
 ![](https://komarev.com/ghpvc/?username=BellaBe40&color=yellowgreen)
+<img
+src="![Uploading image.png…]()
+" width="100" height="100" />
 * 🌍  I'm based in Udon Thani
 * ✉️  You can contact me at [aphichaya.kae@ku.th](mailto:aphichaya.kae@ku.th)
 
