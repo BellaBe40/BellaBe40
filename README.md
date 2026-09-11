@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 
 I studied for 3 years but got nothing
-![](https://komarev.com/ghpvc/?BellaBe40=your-github-BellaBe40&color=brown)
+![](https://komarev.com/ghpvc/?username=BellaBe40color=brown)
 * 🌍  I'm based in Udon Thani
 * ✉️  You can contact me at [aphichaya.kae@ku.th](mailto:aphichaya.kae@ku.th)
 
