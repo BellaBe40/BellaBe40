@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================================
 
 I studied for 3 years but got nothing
-![](https://komarev.com/ghpvc/?username=BellaBe40&color=yellowgreen)
+<img src="https://komarev.com/ghpvc/?username=BellaBe40&color=yellowgreen" alt="BellaBe40" />
 <img
 src="https://media.giphy.com/media/VdXn5OfVW5HnZByodf/giphy.gif?cid=bb5a1c3a18me2vkv1tfx9jal7f0lr71tuqco1ljrhzzhto0x&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100" height="100" />
 * 🌍  I'm based in Udon Thani
