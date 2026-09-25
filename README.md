@@ -4,9 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I studied for 3 years but got nothing
 ![](https://komarev.com/ghpvc/?username=BellaBe40&color=yellowgreen)
 <img
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRoZGJidzRhaDZhbHhyeXZ5
-bjQxbDl4eW5lcXJpamZ1aXhjdWhqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/
-M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100" />
+src="https://media.giphy.com/media/VdXn5OfVW5HnZByodf/giphy.gif?cid=bb5a1c3a18me2vkv1tfx9jal7f0lr71tuqco1ljrhzzhto0x&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="100" height="100" />
 * 🌍  I'm based in Udon Thani
 * ✉️  You can contact me at [aphichaya.kae@ku.th](mailto:aphichaya.kae@ku.th)
 
